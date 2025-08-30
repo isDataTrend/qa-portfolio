@@ -7,8 +7,8 @@ This repository demonstrates my skills in **manual testing, bug reporting, and A
 
 ## 📂 Projects
 
-### 1. Web Application Testing (E-commerce Demo)
-**Objective**: Test critical features such as login, product search, and checkout.  
+### 1. Web Application Testing (Turkish Airlines)
+**Objective**: Test critical features such as sign up, login, flight search.  
 
 **Deliverables**:  
 - ✅ [Test Cases (Excel)](WebApp-Testing/TestCases.xlsx)  
