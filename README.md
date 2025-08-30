@@ -39,7 +39,7 @@ This repository demonstrates my skills in **manual testing, bug reporting, and A
 
 
 ## 🛠️ Tools & Technologies
-- **Test Management**: Jira, TestRail, Excel  
+- **Test Management**: Jira, Trello, Excel  
 - **Bug Reporting**: Jira (with screenshots, severity, reproduction steps)  
 - **API Testing**: Postman  
 - **Programming/Scripting**: Python, JavaScript basics  
