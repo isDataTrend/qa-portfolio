@@ -22,7 +22,7 @@ This repository demonstrates my skills in **manual testing, bug reporting, and A
 
 ---
 
-### 2. API Testing (Postman – Public API: `reqres.in`)
+### 2. API Testing (Postman – Public API: `Simple Grocery Store API`)
 **Objective**: Validate responses for login and user endpoints.  
 
 **Deliverables**:  
