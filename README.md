@@ -12,7 +12,7 @@ This repository demonstrates my skills in **manual testing, bug reporting, and A
 
 **Deliverables**: 
 - ✅ Test Scenarios (Trello) (https://trello.com/invite/b/68bb55b2ae434c688cd3ff4c/ATTI3d1f057b7466bcacb2825f6b6d746cdf2090A488/turkish-airlines-test-scenarios)
-- ✅ User Stories
+- ✅ User Stories (Jira)
 - ✅ [Test Cases (Excel)](WebApp-Testing/TestCases.xlsx)  
 - ✅ [Bug Reports (PDF)](WebApp-Testing/BugReports.pdf)  
 - 📸 Screenshots of bugs: [Screenshots/](WebApp-Testing/Screenshots)  
